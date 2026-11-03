@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SRINATH S</h1>
+<h1 align="center">Hi 👋, I'M SRINATH S</h1>
 <h3 align="center">A passionate software testing from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinath-cod&label=Profile%20views&color=0e75b6&style=flat" alt="srinath-cod" /> </p>
